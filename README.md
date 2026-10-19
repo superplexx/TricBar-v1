@@ -1,3 +1,6 @@
+WAIT FOR TRICBAR V2!!
+ESPERE PELO TRICBAR V2!!
+
 # TricBar
 
 🇧🇷 [Versão em português](#-português-br)
